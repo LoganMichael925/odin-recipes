@@ -1,0 +1,14 @@
+.link {
+  font-size: large;
+  font-weight: bold;
+}
+
+.title {
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+}
+
+img {
+  height: auto;
+  width: 500px;
+}
